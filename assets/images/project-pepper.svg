@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fef3c7"/>
+      <stop offset="100%" style="stop-color:#fde68a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg)"/>
+  <!-- Browser chrome -->
+  <rect x="80" y="60" width="640" height="360" rx="10" fill="#fff" stroke="#e5e7eb" stroke-width="2"/>
+  <rect x="80" y="60" width="640" height="36" rx="10" fill="#f3f4f6"/>
+  <circle cx="108" cy="78" r="6" fill="#ef4444"/>
+  <circle cx="128" cy="78" r="6" fill="#f59e0b"/>
+  <circle cx="148" cy="78" r="6" fill="#22c55e"/>
+  <!-- Hero area -->
+  <rect x="80" y="96" width="640" height="180" fill="#92400e"/>
+  <rect x="140" y="130" width="220" height="18" rx="4" fill="#fde68a"/>
+  <rect x="140" y="158" width="300" height="12" rx="3" fill="#fcd34d80"/>
+  <rect x="140" y="180" width="260" height="12" rx="3" fill="#fcd34d80"/>
+  <rect x="140" y="210" width="100" height="32" rx="6" fill="#f59e0b"/>
+  <!-- Product grid -->
+  <rect x="100" y="295" width="160" height="120" rx="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="100" y="295" width="160" height="70" rx="6" fill="#fde68a"/>
+  <rect x="113" y="375" width="100" height="10" rx="2" fill="#374151"/>
+  <rect x="113" y="392" width="60" height="10" rx="2" fill="#92400e"/>
+  <rect x="280" y="295" width="160" height="120" rx="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="280" y="295" width="160" height="70" rx="6" fill="#fcd34d"/>
+  <rect x="293" y="375" width="100" height="10" rx="2" fill="#374151"/>
+  <rect x="293" y="392" width="60" height="10" rx="2" fill="#92400e"/>
+  <rect x="460" y="295" width="160" height="120" rx="6" fill="#f9fafb" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="460" y="295" width="160" height="70" rx="6" fill="#f59e0b"/>
+  <rect x="473" y="375" width="100" height="10" rx="2" fill="#374151"/>
+  <rect x="473" y="392" width="60" height="10" rx="2" fill="#92400e"/>
+  <text x="400" y="455" text-anchor="middle" font-family="system-ui" font-size="15" fill="#92400e" font-weight="600">Pepper Home — Wix E-Commerce</text>
+</svg>

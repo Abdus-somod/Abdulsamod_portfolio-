@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <defs>
+    <linearGradient id="bg5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#fff1f2"/>
+      <stop offset="100%" style="stop-color:#ffe4e6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="480" fill="url(#bg5)"/>
+  <rect x="80" y="60" width="640" height="360" rx="10" fill="#fff" stroke="#fecdd3" stroke-width="2"/>
+  <rect x="80" y="60" width="640" height="36" rx="10" fill="#f3f4f6"/>
+  <circle cx="108" cy="78" r="6" fill="#ef4444"/>
+  <circle cx="128" cy="78" r="6" fill="#f59e0b"/>
+  <circle cx="148" cy="78" r="6" fill="#22c55e"/>
+  <!-- Full-width image hero -->
+  <rect x="80" y="96" width="640" height="200" fill="#fda4af"/>
+  <!-- Overlaid text box -->
+  <rect x="200" y="155" width="400" height="100" rx="4" fill="#fff9" />
+  <rect x="240" y="175" width="180" height="18" rx="4" fill="#be123c"/>
+  <rect x="240" y="205" width="280" height="10" rx="3" fill="#e11d4880"/>
+  <rect x="240" y="225" width="240" height="10" rx="3" fill="#e11d4880"/>
+  <!-- Gallery grid -->
+  <rect x="100" y="315" width="120" height="90" rx="6" fill="#fecdd3"/>
+  <rect x="235" y="315" width="120" height="90" rx="6" fill="#fda4af"/>
+  <rect x="370" y="315" width="120" height="90" rx="6" fill="#fb7185"/>
+  <rect x="505" y="315" width="175" height="90" rx="6" fill="#f43f5e"/>
+  <text x="400" y="455" text-anchor="middle" font-family="system-ui" font-size="15" fill="#9f1239" font-weight="600">Prewitt Designs by Renee — Wix Portfolio</text>
+</svg>
